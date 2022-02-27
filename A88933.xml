@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter written from Dermond MacConnor, one of the chiefetaines of the Irish rebels, unto the King of Spaine, for aide and assistance against the English, and Protestants, being brought by an English marchant from Madrid and translated out of the Spanish originall. Also, a copy of another letter written from Lisbon in Portugall, concerning the execution of 4. noblemen, 4. gentlemen, and 3. bishops, and one of the inquisition. All traytors against the King of Portugall, Iohn the fourth. And to make up the 13th. the Bishop of Lamego, who had lately crown'd the King, yet since found guilty, with others, in a great treason and cruell massacre plotted, intending to kill the King of Portugall, his Queene, his sonne, and two daughters, and to burne the pallace, and citie, all in one day.</title>
+            <author>MacConnor, Dermond, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88933</idno>
+            <idno type="STC">Wing M117</idno>
+            <idno type="STC">Thomason E132_3</idno>
+            <idno type="STC">ESTC R19071</idno>
+            <idno type="EEBO-CITATION">99860564</idno>
+            <idno type="PROQUEST">99860564</idno>
+            <idno type="VID">112687</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88933)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112687)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter written from Dermond MacConnor, one of the chiefetaines of the Irish rebels, unto the King of Spaine, for aide and assistance against the English, and Protestants, being brought by an English marchant from Madrid and translated out of the Spanish originall. Also, a copy of another letter written from Lisbon in Portugall, concerning the execution of 4. noblemen, 4. gentlemen, and 3. bishops, and one of the inquisition. All traytors against the King of Portugall, Iohn the fourth. And to make up the 13th. the Bishop of Lamego, who had lately crown'd the King, yet since found guilty, with others, in a great treason and cruell massacre plotted, intending to kill the King of Portugall, his Queene, his sonne, and two daughters, and to burne the pallace, and citie, all in one day.</title>
+                  <author>MacConnor, Dermond, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Harford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Portugal --  History --  John IV, 1640-1656 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112687:1"/>
+            <!-- PDF PAGE 114 -->
+            <pb facs="tcp:112687:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 114 -->
+            <p>THE Copy of a Letter written From DERMOND MACCONNOR, One of the Chiefetaines of the <hi>Iriſh</hi> Rebels, unto the King of <hi>Spaine,</hi> for Aide and Aſſiſtance againſt the <hi>Engliſh,</hi> and Proteſtants, being brought by an <hi>Engliſh</hi> Marchant from <hi>Madrid</hi> and Tranſlated out <hi>of the</hi> Spaniſh <hi>Originall.</hi>
+            </p>
+            <p>ALSO, A Copy of another Letter written from <hi>Lisbon</hi> in <hi>Portugall,</hi> concerning the execution of 4. Noblemen, 4. Gentlemen, and 3. Biſhops, and one of the Inquiſition.</p>
+            <p>All Traytors againſt the King of <hi>Portugall,</hi> IOHN the fourth.</p>
+            <p>And to make up the 13<hi rend="sup">th</hi>. the Biſhop of <hi>Lamego,</hi> who had lately Crown'd the King, yet ſince found guilty, with others, in a great Treaſon and cruell Maſſacre plotted, intending to kill the King of <hi>Portugall,</hi> his Queene, his Sonne, and two Daughters, and to burne the Pallace, and Citie, all in one day.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Harford,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112687:2"/>
+            <!-- PDF PAGE 115 -->
+            <pb n="1" facs="tcp:112687:2"/>
+            <!-- PDF PAGE 115 -->
+            <head>A Letter from DERMOND MAC CONNOR, one of the Chiefetaines of the <hi>Iriſh</hi> Rebels, unto the King of <hi>Spaine.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Moſt Mighty Monarch,</salute>
+                  </opener>
+                  <p>I Humbly Salute Your Imperiall Majeſtie, Giving Your <hi>Highneſſe</hi> to underſtand of our great miſery, and violent order, wherewith we have beene of long time oppreſt by the <hi>Engliſh</hi> Nation. Their government hath been ſuch, as <hi>Pharach</hi> himſelfe never uſed the like; for they contented not themſelues with all temporall Superiority, but by crueltie de<g ref="char:EOLhyphen"/>ſired our blood, and perpetuall deſtruction, to blot out the whole remembrance of our Progeny, as alſo our old Catho<g ref="char:EOLhyphen"/>lick Religion, and to ſweare that the King of <hi>England</hi> is Su<g ref="char:EOLhyphen"/>preame of the Church. I referre the conſideration hereof to your Majeſties high judgement, for that <hi>Nero</hi> in his time never uſed that kind of cruelty. Wherefore, and for the reſpects thereof, high and mighty Potentate, my ſelf with my follow<g ref="char:EOLhyphen"/>ers and retainers, And being alſo requeſted by the Prelates, Prieſts, and Religious men of my Countrey, have drawn my ſword, and proclaimed warres againſt them, for the recovery, firſt, of Chriſts Catholicke Religion, and next for the maine<g ref="char:EOLhyphen"/>tenance of mine owne right, which of long time, hath beene wrongfully detained from me, and my Father; who by right Succeſſion was lawfull heire to the Earledome of <hi>Cormock,</hi> for he was eldeſt Sonne to <hi>Lames</hi> my Grandfather, who was
+<pb n="2" facs="tcp:112687:3"/>
+                     <!-- PDF PAGE 116 -->Earle of <hi>Cormock.</hi> And for that my Vncle <hi>Gerald</hi> (being the younger brother) tooke part with the wicked proceedings of the late Queene of <hi>England,</hi> to further the unlawfull claime of Supremacie, uſurped the named of Earle of <hi>Cormock,</hi> being my Fathers true Title: Yet notwithſtan<g ref="char:EOLhyphen"/>ding, he had not long enjoyed his name of Earle, when the wicked <hi>Engliſh</hi> annoyed him, and proſecuted warres; inſo<g ref="char:EOLhyphen"/>much that he with the moſt part that held of his ſide were ſlaine, and his Countrey thereby planted with <hi>Engliſhmen.</hi> And now by the juſt judgement, and providence of God, I have utterly rooted thoſe mallepert weedes out of the Or<g ref="char:EOLhyphen"/>chard of my Countrey, and have profited ſo much in my proceedings, that my daſtardly enemies dare not ſhew their faces in any part of my Countrey, but having taken my Townes and Cities for their refuge and ſtrength, where they doe remaine (as it were Priſoners) for want of meanes to aſſaile them, as Canon and Powder, which my Countrey doth not yeeld</p>
+                  <p>Having theſe wants (Moſt noble Potentate) I have pre<g ref="char:EOLhyphen"/>ſumed, with all humility, to addreſſe theſe my Letters to your high Majeſtie, Craving the ſame of your gracious Clemencie and goodneſſe, to aſſiſt me in this godly enter<g ref="char:EOLhyphen"/>priſe, with ſome helpe of ſuch neceſſaries for the warres, as your Majeſty ſhall thinke requiſite: And (after the quiet of my Countrey) Satisfaction ſhall bee made for the ſame, and my ſelfe in perſon, with all my Forces, ſhall be ready to ſerve your Highneſſe in any Countrey your Majeſtie ſhall command mee.</p>
+                  <p>And if your Majeſtie will vouchaſe to ſend mee a compe<g ref="char:EOLhyphen"/>tent number of Souldiers, I will place them in ſome of my Townes and Cities, to remaine in your Gracious diſpoſition, till ſuch time as my ability ſhall make good, what your Ma<g ref="char:EOLhyphen"/>jeſtie ſhall lend me in Money and Munition; And alſo your
+<pb n="3" facs="tcp:112687:3"/>
+                     <!-- PDF PAGE 116 -->Majeſties high Commiſſion under your broad Seale, for lead<g ref="char:EOLhyphen"/>ing and conducting of theſe Souldiers, according to the pre<g ref="char:EOLhyphen"/>ſcript order and articles of Martiall diſcipline, as your Majeſty ſhall appoint mee, and as the ſervice of the Land ſhall require: I praiſe the Almighty God, I have done, by his goodneſſe, more then all my predeceſſours; for I have reclaimed all the Nobility of this part under the dutifull obedience of Chriſts Church, and mine own authority, and accordingly have taken pledges and corporall oaths never to ſwerve from the ſame; And would have ſent them to your Majeſty by this bearer, but that the ſhip was not of ſufficiency and ſtrength to carry ſo noble perſonages, and will ſend them whenſoever your high<g ref="char:EOLhyphen"/>neſſe pleaſe: So there reſteth nothing to quiet this part of the World, but your Majeſties aſſiſtance, which I dayly expect: Thus moſt mighty Monarch, I humbly take my leave, and doe kiſſe your Royall hand, beſeeching the Almighty for your Majeſties health and happineſſe: From my campe, the 24. day of <hi>December</hi> 1641.</p>
+                  <closer>
+                     <signed>Your Majeſties moſt humble at all command
+CORMOCK.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>COnſider I beſeech thee (Gentle Reader) into what proud arrogancy, and audations inſolency, this Arch-Traytor is elevated (like a vapour in a Sunſhine day) now that blind Fortune laughs upon him; (Our King, the moſt gratious Prince in the World) is with him a Tyrant, the <hi>Engliſh</hi> all cowards, the Cities and walled Townes all his, and the <hi>Con<g ref="char:EOLhyphen"/>naght</hi> Nobility ſubdued under his authority. Was there e<g ref="char:EOLhyphen"/>ver Rebell ſo farre tranſported with ambitious preſumption, beyond the limits of reaſon? is it not ſufficient for him like curſed <hi>Shimei,</hi> or black mouth'd railing <hi>Rabſhakch,</hi> to revile the Lords annointed, but hee muſt challenge his territories,
+<pb n="4" facs="tcp:112687:4"/>
+               <!-- PDF PAGE 117 -->his Cities, his people, and his Nobility, (whom hee and his Anceſtours had created) to be his owne, who hath no portion, nor inheritance in any part thereof, being the Impe of a born Baſtard? But ſurely, I muſt perſwade my ſelfe all this is per<g ref="char:EOLhyphen"/>mitted by the unſearchable Sapience of the All-ſeeing Deity, that hee may for ever be pointed at, as an exemplary mirrour of all inſolent Traytours.</p>
+            <p>And as for the King of <hi>Spaine,</hi> whom hee calleth to aſſiſt and ſupport him in this his current of Murders, Rapines, and Rebellion; We conceive hee will not ſo farre forget himſelfe, and his league with us, as to regard their wicked inticements, of whoſe little truſt, and leſſe worth, his Predeceſſours have had ſufficient experience; eſpecially at this time, when as hee hath ſuch ſtore of employment, for both his hands, in other places; but if hee thinke fit to beginne the breach, and to thruſt his Iron into this fire alſo; let him not doubt to find that <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath hearts and hands to repell all injuries, and to vindi<g ref="char:EOLhyphen"/>cate her right, and honour, as well now, as heretofore.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Coppy of another Letter written from LISBON in PORTVGALL.</head>
+                  <p>THere have bin brought unto the Place of Execution, the Marqueſſe <hi>de Villa Reall,</hi> and his Sonne, the Duke <hi>de Ca<g ref="char:EOLhyphen"/>mucha;</hi> together with the Earle <hi>de Armamar,</hi> and <hi>Don Augu<g ref="char:EOLhyphen"/>ſtino Manuel;</hi> they were lodged that night at the houſe of <hi>Die<g ref="char:EOLhyphen"/>go Duarta.</hi> Preſently after, there was in the ſame night ſet up a Scaffold in the middeſt of the Place of Execution; made with ſteps or degrees of Aſſent; upon the higheſt ſtep there were ſet two Chaires, and made faſt, one for the Duke, and the other for his Father: and on another ſtep lower there was ſet a chaire for the Earle of <hi>Armamar;</hi> and upon the boards lower there was ſet another chaire for <hi>Don Auguſtino Manuel:</hi> ſo
+<pb n="5" facs="tcp:112687:4"/>
+                     <!-- PDF PAGE 117 -->that they all did ſit upon chaires, or ſtooles, but one high<g ref="char:EOLhyphen"/>er than the other. And there was made a Gallery from the houſe, (wherein they were) unto the Scaffold all hung with Baies. After that, there were two high gallowes ſet up, one at the ſide of S. <hi>Antonies</hi> gate, and the other in the Street named <hi>Eſcudeiros;</hi> ſo that the Scaffold was in the midſt. The next day betweene eleven and twelve of the clock there came unto the windowes of the Houſe foure Corrigidours of the Court, and ſome authoriſed Officers Thereupon came the Marqueſſe <hi>de Villa Real</hi> with a Monteere upon his head, a little ſtick in his hand, and with a Cloake about him. After that he had made the firſt Step, hee fell upon his Knees, and made an elegant Speech, or lamentation, with great conſtan<g ref="char:EOLhyphen"/>cy, more than was thought; Then the Herauld at Armes began preſently to cry, The King our Lord deſireth, that Right be done: <hi>Don Lonys,</hi> late Marques <hi>de Villa Reall,</hi> Traitour a<g ref="char:EOLhyphen"/>gainſt the perſon of the King, and for the good of the King<g ref="char:EOLhyphen"/>dome, and of the Common People; ſhall be beheaded, his Goods confiſcated for the Royall Exchequer, and his me<g ref="char:EOLhyphen"/>mory baniſhed out of the world. The Marqueſſe came, as I mentioned before, upon the Scaffold, with great courage, and ſate downe upon the chaire: then came the executioner, made his body and armes faſt, and cut off his head; and preſently the Marqueſſe was covered with a garment of Bayes. This be<g ref="char:EOLhyphen"/>ing done, the Duke his ſonne, came forth, accompanied as the Father; and the Herauld cryed, as before, untill the Duke, came unto the Chaire, upon which his Fathers body was, be<g ref="char:EOLhyphen"/>fore whoſe feet he kneeled downe (kiſſing the ſame a thouſand times &amp; craved time, <hi>To ſay one Pater noſter for his Fathers Soule.</hi> Which being done, hee went unto his ſeat, but more faint<g ref="char:EOLhyphen"/>hearted, and ſo was beheaded, and covered. Then came the Earle of <hi>Armamar</hi> (with a common Doore-keeper,) and <hi>Don Auguſtino Manuel,</hi> which were executed likewiſe. Beſides <hi>Pero de Baeſſa</hi> and <hi>Belchior Correnda Franca,</hi> were hanged up at
+<pb n="6" facs="tcp:112687:5"/>
+                     <!-- PDF PAGE 118 -->the ſide of Saint <hi>Anthonies-gate;</hi> And in the Street, named <hi>Eſ<g ref="char:EOLhyphen"/>ondeiros,</hi> there hung <hi>Manuel Valente,</hi> and a Clerke; Whereup<g ref="char:EOLhyphen"/>on all the people began to part, and to Cry, <hi>God ſave</hi> Don Iohn <hi>the Fourth.</hi>
+                  </p>
+                  <p>Two houres after, the foure hanged were quartered, and their quarters carryed away. But (beleeve me) this relation, and ſpectacle following doth change my blood, <hi>viz:</hi> The two Biſhops, and with them, the Biſhop <hi>de Braga,</hi> and the In<g ref="char:EOLhyphen"/>quiſitor <hi>Mor,</hi> for the ſame Treaſon, are caſt into the Towre of <hi>Belem,</hi> into deep Pits, which runne under the water, wherein there is no light, to end their lives there. The Biſhop <hi>de Braga</hi> recanted not, but ſaid to his laſt, that King <hi>Philip</hi> was his Lord, and that he did loſe his life for him. The reſt confeſſed their crimes, and alwaies cried for the mercy of the King, <hi>Don Iohn</hi> the Fouth; and eſpecially, the Marqueſſe <hi>de Villa Real,</hi> who had written 3. or 4. ſheers of paper, craving his mercy; but the King had committed it unto Juſtice, and therefore would not intermeddle in pardoning any one of them. <hi>Beaſſa</hi> would con<g ref="char:EOLhyphen"/>feſſe nothing, and dyed reſolutely.</p>
+                  <p>Since that time, the <hi>Dutch</hi> Printed <hi>Coranto</hi> relates, A Diſ<g ref="char:EOLhyphen"/>covery of a great Treaſon and cruell Maſſacre, plotted by 25. perſons, wherein there are many of the <hi>Grandees</hi> of the Land, ſome of thoſe 25. are taken. Their intent was to kill the King of <hi>Portugall,</hi> his Queene, his Sonne, and two Daughters, and to burne the Pallace and City upon one day. The Biſhop of <hi>Lamego</hi> in <hi>Portugall</hi> hath beene ſince hanged at <hi>Lisbon</hi> being found guilty of this conſpiracy: This was hee, that had put the Crowne upon his Majeſties head. And beſides, 8. others have beene han'gd.</p>
+                  <closer>
+                     <signed>J remaine your Servant, &amp;c.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112687:5"/>
+            <!-- PDF PAGE 118 -->
+         </div>
+      </body>
+   </text>
+</TEI>
